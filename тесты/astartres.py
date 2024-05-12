@@ -16,7 +16,7 @@ def check_gues(guess, answer):
 score = 0
 print('"Test "Adeptus Astartres"')
 guess1 = input('What weapons do tactical guards have?')
-check_gues(guess1, 'bbolterolter and combat blade')
+check_gues(guess1, 'bolter and combat blade')
 guess2 = input('In which company are the terminators?')
 check_gues(guess2, 'in the first company')
 guess3 = input('Who produces the space marine armor?')
